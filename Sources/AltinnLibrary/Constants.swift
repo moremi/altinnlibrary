@@ -24,7 +24,7 @@ struct Constants {
     //this may change per year
     static let supportedYear = 2021 //this is always tax year + 1
     static let rf1030serviceEditionVersion = ["180141", "180143"] //for 2019 tax year, 2020 submission
-    static let rf1189dataFormatVersion = "12292"
+    static let rf1189dataFormatVersion = "12456"
 }
 
 struct EndPoints {
